@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📓 Personal Diary Analyzer
 
 A Python tool that analyzes personal diary entries, providing insights such as word count, sentiment analysis, and more.
@@ -22,3 +23,6 @@ python analyze_diary.py
 ## License
 
 This project is licensed under the MIT License.
+=======
+# personal-diary-analyzer
+>>>>>>> aedadb102b1a9a9fdc3c652abae885005421c21e
