@@ -24,5 +24,3 @@ python analyze_diary.py
 
 This project is licensed under the MIT License.
 =======
-# personal-diary-analyzer
->>>>>>> aedadb102b1a9a9fdc3c652abae885005421c21e
