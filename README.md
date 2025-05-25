@@ -1,4 +1,4 @@
-<<<<<<< HEAD >>>>>>>
+
 # 📓 Personal Diary Analyzer
 
 A Python tool that analyzes personal diary entries, providing insights such as word count, sentiment analysis, and more.
